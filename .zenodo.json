@@ -1,0 +1,23 @@
+{
+  "title": "Prompt: Análise Bibliométrica (método VOSviewer em código)",
+  "description": "Prompt operacional para executar análise bibliométrica em Python replicando o método do VOSviewer (força de associação, clusterização Leiden/CPM, layout VOS), com teste de estabilidade, figuras, tabelas e exportação para o VOSviewer. Integra a coleção de prompts de pesquisa acadêmica assistida por IA de Darci de Borba (Ipea).",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "language": "por",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Santos Júnior, Darci de Borba",
+      "affiliation": "Instituto de Pesquisa Econômica Aplicada (Ipea)",
+      "orcid": "0000-0001-9851-5034"
+    }
+  ],
+  "keywords": [
+    "bibliometria",
+    "pesquisa acadêmica",
+    "VOSviewer",
+    "Python",
+    "inteligência artificial"
+  ],
+  "license": "mit"
+}
